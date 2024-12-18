@@ -6,10 +6,10 @@ this is the solution
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/balogun14/labelbox.git
 
 # Navigate to the project directory
-cd yourproject
+cd labelbox
 
 
 ```bash
