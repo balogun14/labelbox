@@ -1,0 +1,42 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore environment variables
+.env
+
+# Ignore virtual environments
+vemv/
+.vemv/
+
+# Ignore Docker-related files
+Dockerfile
+docker-compose.yml
+
+# Ignore logs
+*.log
+
+# Ignore compiled files
+*.so
+*.pyd
+
+# Ignore test coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Ignore mypy type checker reports
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Ignore Pyre type checker reports
+.pyre/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore local development files
+.vscode/
+.idea/
